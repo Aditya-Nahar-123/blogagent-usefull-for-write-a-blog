@@ -1,0 +1,6 @@
+{
+  "name": "BlogAgent Studio",
+  "description": "A multi-agent AI system that researches, writes, and optimizes professional blog posts from a single title.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
